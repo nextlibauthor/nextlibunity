@@ -2,7 +2,7 @@
     "name": "com.next.nextlib",
     "displayName": "NextLib",
     "description": "A Library to develop unity Game",
-    "version":"0.0.1",
+    "version":"0.0.2",
     "repository": {
         "type": "git",
         "url":"https://github.com/nextlibauthor/nextlibunity.git"
