@@ -1,0 +1,19 @@
+{
+    "name": "com.next.nextlib",
+    "displayName": "NextLib",
+    "description": "A Library to develop unity Game",
+    "version":"0.0.1",
+    "repository": {
+        "type": "git",
+        "url":"https://github.com/nextlibauthor/nextlibunity.git"
+    },
+    "keywords": [
+        "unity",
+        "nextlib"
+    ],
+    "author": {
+        "name": "NextLib",
+        "email": "nextlibunity@gmail.com"
+    },
+    "license": "MIT"
+}
